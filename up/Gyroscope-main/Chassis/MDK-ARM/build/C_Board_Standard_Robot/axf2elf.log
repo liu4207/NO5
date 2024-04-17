@@ -1,0 +1,4 @@
+arm-none-eabi-objcopy --update-section ER_IROM1="c:\Users\lsk\Desktop\Robot_Infantry_5\up\Gyroscope-main\Chassis\MDK-ARM\build\C_Board_Standard_Robot\C_Board_Standard_Robot.bin" "c:\Users\lsk\Desktop\Robot_Infantry_5\up\Gyroscope-main\Chassis\MDK-ARM\build\C_Board_Standard_Robot\C_Board_Standard_Robot.axf" "c:\Users\lsk\Desktop\Robot_Infantry_5\up\Gyroscope-main\Chassis\MDK-ARM\build\C_Board_Standard_Robot\C_Board_Standard_Robot.elf"
+
+arm-none-eabi-objcopy: c:\Users\lsk\Desktop\Robot_Infantry_5\up\Gyroscope-main\Chassis\MDK-ARM\build\C_Board_Standard_Robot\C_Board_Standard_Robot.elf: warning: allocated section `RW_IRAM1' not in segment
+

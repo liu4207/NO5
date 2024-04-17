@@ -1,0 +1,1375 @@
+[2023-11-21 21:00:41]	[done]
+	build successfully !
+
+[2023-11-21 21:14:53]	[done]
+	build successfully !
+
+[2023-11-21 21:16:23]	[done]
+	build successfully !
+
+[2023-11-22 00:03:40]	[done]
+	build successfully !
+
+[2023-11-22 00:04:31]	[done]
+	build successfully !
+
+[2023-11-22 00:05:05]	[done]
+	build successfully !
+
+[2023-11-22 16:41:39]	[done]
+	build successfully !
+
+[2023-11-22 16:47:56]	[done]
+	build successfully !
+
+[2023-11-23 22:44:38]	[done]
+	build successfully !
+
+[2023-11-24 18:38:59]	[done]
+	build successfully !
+
+[2023-11-24 22:08:36]	[done]
+	build successfully !
+
+[2023-11-27 19:33:08]	[done]
+	build successfully !
+
+[2023-11-27 21:00:37]	[done]
+	build successfully !
+
+[2023-11-27 21:01:06]	[done]
+	build successfully !
+
+[2023-11-27 21:01:35]	[done]
+	build successfully !
+
+[2023-11-27 21:01:52]	[done]
+	build successfully !
+
+[2023-11-27 21:02:21]	[done]
+	build successfully !
+
+[2023-11-27 21:02:52]	[done]
+	build successfully !
+
+[2023-11-27 21:03:26]	[done]
+	build successfully !
+
+[2023-11-27 22:25:10]	[done]
+	build successfully !
+
+[2023-11-27 22:28:16]	[done]
+	build successfully !
+
+[2023-11-27 22:42:34]	[done]
+	build successfully !
+
+[2023-12-01 23:40:43]	[done]
+	build successfully !
+
+[2023-12-01 23:51:31]	[done]
+	build successfully !
+
+[2023-12-01 23:53:18]	[done]
+	build successfully !
+
+[2023-12-02 22:54:42]	[done]
+	build successfully !
+
+[2023-12-02 22:56:50]	[done]
+	build successfully !
+
+[2023-12-02 23:00:01]	[done]
+	build successfully !
+
+[2023-12-02 23:00:28]	[done]
+	build successfully !
+
+[2023-12-02 23:03:02]	[done]
+	build successfully !
+
+[2023-12-02 23:04:46]	[done]
+	build successfully !
+
+[2023-12-02 23:07:25]	[done]
+	build successfully !
+
+[2023-12-02 23:10:18]	[done]
+	build successfully !
+
+[2023-12-06 22:18:54]	[done]
+	build successfully !
+
+[2023-12-06 22:21:01]	[done]
+	build successfully !
+
+[2023-12-09 19:42:24]	[done]
+	build successfully !
+
+[2023-12-09 19:51:57]	[done]
+	build successfully !
+
+[2023-12-09 19:52:46]	[done]
+	build successfully !
+
+[2023-12-09 19:54:22]	[done]
+	build successfully !
+
+<<<<<<< HEAD
+[2023-12-10 20:05:06]	[done]
+	build successfully !
+
+[2023-12-10 20:06:39]	[done]
+	build successfully !
+
+[2023-12-10 20:12:43]	[done]
+=======
+[2023-12-11 21:48:03]	[done]
+	build successfully !
+
+[2023-12-11 21:48:20]	[done]
+	build successfully !
+
+[2023-12-11 21:49:29]	[done]
+	build successfully !
+
+[2023-12-11 21:50:07]	[done]
+	build successfully !
+
+[2023-12-11 21:50:37]	[done]
+>>>>>>> 79cb313 (Âà´Ë¥™‰∏ÄÊ≠•ÂáΩÊï∞‰∫ÜÔºåbugÂ§™Â§ö‰∫Ü)
+	build successfully !
+
+[2023-12-11 21:52:47]	[done]
+	build successfully !
+
+[2023-12-14 20:54:56]	[done]
+	build successfully !
+
+[2023-12-14 21:25:12]	[done]
+	build successfully !
+
+[2023-12-14 21:25:42]	[done]
+	build successfully !
+
+[2023-12-14 21:27:58]	[done]
+	build successfully !
+
+[2023-12-14 21:30:05]	[done]
+	build successfully !
+
+[2023-12-14 21:31:06]	[done]
+	build successfully !
+
+[2023-12-14 21:31:50]	[done]
+	build successfully !
+
+[2023-12-21 19:24:56]	[done]
+	build successfully !
+
+[2023-12-21 19:29:16]	[done]
+	build successfully !
+
+[2023-12-21 19:29:46]	[done]
+	build successfully !
+
+[2023-12-21 20:14:14]	[done]
+	build successfully !
+
+[2024-02-29 16:39:41]	[done]
+	build successfully !
+
+[2024-02-29 17:17:43]	[done]
+	build successfully !
+
+[2024-02-29 17:17:56]	[done]
+	build successfully !
+
+[2024-02-29 17:26:09]	[done]
+	build successfully !
+
+[2024-02-29 17:27:26]	[done]
+	build successfully !
+
+[2024-02-29 17:28:39]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol RC_Yaw_control (referred from Chassis_task.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2024-02-29 17:30:14]	[done]
+	build successfully !
+
+[2024-02-29 18:24:59]	[done]
+	build successfully !
+
+[2024-02-29 18:26:50]	[done]
+	build successfully !
+
+[2024-02-29 18:31:37]	[done]
+	build successfully !
+
+[2024-02-29 18:32:57]	[done]
+	build successfully !
+
+[2024-02-29 18:36:30]	[done]
+	build successfully !
+
+[2024-02-29 18:49:00]	[done]
+	build successfully !
+
+[2024-02-29 18:51:11]	[done]
+	build successfully !
+
+[2024-02-29 18:52:25]	[done]
+	build successfully !
+
+[2024-02-29 18:53:36]	[done]
+	build successfully !
+
+[2024-02-29 19:31:06]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 215: Error:  #20: identifier "Vx" is undefined
+    int16_t Temp_Vx = Vx;
+                      ^
+".\..\User\Task\Chassis_task.c", line 216: Error:  #20: identifier "Vy" is undefined
+    int16_t Temp_Vy = Vy;
+                      ^
+".\..\User\Task\Chassis_task.c", line 219: Error:  #20: identifier "INS_down" is undefined
+    relative_yaw = INS_down.Yaw-INS.Yaw;
+                   ^
+".\..\User\Task\Chassis_task.c", line 140: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+.\..\User\Task\Chassis_task.c: 1 warning, 3 errors
+
+[2024-02-29 19:31:26]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 219: Error:  #20: identifier "INS_down" is undefined
+    relative_yaw = INS_down.Yaw-INS.Yaw;
+                   ^
+".\..\User\Task\Chassis_task.c", line 140: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+.\..\User\Task\Chassis_task.c: 1 warning, 1 error
+
+[2024-02-29 19:31:36]	[done]
+	build successfully !
+
+[2024-02-29 20:00:20]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  void yaw_correct()
+       ^
+".\..\User\Task\Chassis_task.c", line 273: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+      INS.yaw_init = INS.Yaw;
+          ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_update"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+        ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+                                   ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 7 errors
+
+[2024-02-29 20:00:59]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 273: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+      INS.yaw_init = INS.Yaw;
+          ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_update"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+        ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+                                   ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 267: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 7 errors
+
+[2024-02-29 20:01:36]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 273: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+      INS.yaw_init = INS.Yaw;
+          ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_update"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+        ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+    INS.yaw_update = INS.Yaw - INS.yaw_init;
+                                   ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 267: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 7 errors
+
+[2024-02-29 20:02:29]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 275: Error:  #136: struct "<unnamed>" has no field "yaw_init"
+    INS.Yaw_update = INS.Yaw - INS.yaw_init;
+                                   ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 267: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 5 errors
+
+[2024-02-29 20:02:51]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 267: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 4 errors
+
+[2024-02-29 20:03:00]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+                                                    ^
+".\..\User\Task\Chassis_task.c", line 267: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 267: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 4 errors
+
+[2024-02-29 20:03:47]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 249: Error:  #20: identifier "relative_yaw" is undefined
+    relative_yaw = INS.Yaw_update
+    ^
+".\..\User\Task\Chassis_task.c", line 250: Error:  #65: expected a ";"
+    int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+    ^
+".\..\User\Task\Chassis_task.c", line 259: Error:  #20: identifier "yaw_speed" is undefined
+      chassis.Wz = pid_calc(&pid_yaw_speed, yaw_speed, rotate_w);
+                                            ^
+".\..\User\Task\Chassis_task.c", line 268: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 268: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 6 errors
+
+[2024-02-29 20:04:14]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 250: Error:  #65: expected a ";"
+     int16_t yaw_speed = pid_calc(&pid_yaw_angle, 0, relative_yaw);
+     ^
+".\..\User\Task\Chassis_task.c", line 259: Error:  #20: identifier "yaw_speed" is undefined
+      chassis.Wz = pid_calc(&pid_yaw_speed, yaw_speed, rotate_w);
+                                            ^
+".\..\User\Task\Chassis_task.c", line 268: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 268: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 5 errors
+
+[2024-02-29 20:04:30]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 268: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 268: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 3 errors
+
+[2024-02-29 20:04:37]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 62: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 94: Error:  #20: identifier "pid_yaw_angle_value" is undefined
+    pid_yaw_angle_value[0] = 1;
+    ^
+".\..\User\Task\Chassis_task.c", line 98: Error:  #20: identifier "pid_yaw_speed_value" is undefined
+    pid_yaw_speed_value[0] = 10;
+    ^
+".\..\User\Task\Chassis_task.c", line 268: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 62)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 154: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 239: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 268: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 3 errors
+
+[2024-02-29 20:05:33]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 63: Warning:  #223-D: function "yaw_correct" declared implicitly
+      yaw_correct();//Ê†?Âá?
+      ^
+".\..\User\Task\Chassis_task.c", line 269: Error:  #159: declaration is incompatible with previous "yaw_correct" (declared at line 63)
+  static void yaw_correct(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 155: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 240: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 269: Warning:  #177-D: function "yaw_correct" was declared but never referenced
+  static void yaw_correct(void)
+              ^
+.\..\User\Task\Chassis_task.c: 4 warnings, 1 error
+
+[2024-02-29 20:07:43]	[done]
+	build successfully !
+
+[2024-02-29 20:32:58]	[done]
+	build successfully !
+
+[2024-02-29 21:33:27]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 24: Error:  #5: cannot open source input file "JY901.h": No such file or directory
+  #include "JY901.h"
+                    ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 1 error
+
+[2024-02-29 21:39:29]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 24: Error:  #5: cannot open source input file "JY901.h": No such file or directory
+  #include "JY901.h"
+                    ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 1 error
+
+[2024-02-29 21:39:40]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 24: Error:  #5: cannot open source input file "JY901.h": No such file or directory
+  #include "JY901.h"
+                    ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 1 error
+
+[2024-02-29 21:39:54]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 383: Error:  #20: identifier "hdma_uart4_rx" is undefined
+      temp = hdma_uart4_rx.Instance->NDTR;
+             ^
+".\..\Src\stm32f4xx_it.c", line 385: Error:  #20: identifier "JY901_data" is undefined
+      JY901_data.Rx_len = RXBUFFER_LEN - temp;
+      ^
+".\..\Src\stm32f4xx_it.c", line 385: Error:  #20: identifier "RXBUFFER_LEN" is undefined
+      JY901_data.Rx_len = RXBUFFER_LEN - temp;
+                          ^
+".\..\Src\stm32f4xx_it.c", line 386: Warning:  #223-D: function "JY901_Process" declared implicitly
+      JY901_Process();
+      ^
+".\..\Src\stm32f4xx_it.c", line 390: Error:  #20: identifier "JY901_data" is undefined
+    HAL_UART_Receive_DMA(&huart1, JY901_data.RxBuffer, RXBUFFER_LEN);
+                                  ^
+".\..\Src\stm32f4xx_it.c", line 390: Error:  #20: identifier "RXBUFFER_LEN" is undefined
+    HAL_UART_Receive_DMA(&huart1, JY901_data.RxBuffer, RXBUFFER_LEN);
+                                                       ^
+.\..\Src\stm32f4xx_it.c: 1 warning, 5 errors
+
+[2024-02-29 21:49:59]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 383: Error:  #20: identifier "hdma_uart4_rx" is undefined
+      temp = hdma_uart4_rx.Instance->NDTR;
+             ^
+".\..\Src\stm32f4xx_it.c", line 385: Error:  #20: identifier "JY901_data" is undefined
+      JY901_data.Rx_len = RXBUFFER_LEN - temp;
+      ^
+".\..\Src\stm32f4xx_it.c", line 385: Error:  #20: identifier "RXBUFFER_LEN" is undefined
+      JY901_data.Rx_len = RXBUFFER_LEN - temp;
+                          ^
+".\..\Src\stm32f4xx_it.c", line 386: Warning:  #223-D: function "JY901_Process" declared implicitly
+      JY901_Process();
+      ^
+".\..\Src\stm32f4xx_it.c", line 390: Error:  #20: identifier "JY901_data" is undefined
+    HAL_UART_Receive_DMA(&huart1, JY901_data.RxBuffer, RXBUFFER_LEN);
+                                  ^
+".\..\Src\stm32f4xx_it.c", line 390: Error:  #20: identifier "RXBUFFER_LEN" is undefined
+    HAL_UART_Receive_DMA(&huart1, JY901_data.RxBuffer, RXBUFFER_LEN);
+                                                       ^
+.\..\Src\stm32f4xx_it.c: 1 warning, 5 errors
+
+[2024-02-29 21:50:16]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 383: Error:  #20: identifier "hdma_uart4_rx" is undefined
+      temp = hdma_uart4_rx.Instance->NDTR;
+             ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 1 error
+
+[2024-02-29 21:53:14]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 383: Error:  #20: identifier "hdma_uart1_rx" is undefined
+      temp = hdma_uart1_rx.Instance->NDTR;
+             ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 1 error
+
+[2024-02-29 21:53:33]	[done]
+	build successfully !
+
+[2024-02-29 21:54:55]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 376: Warning:  #223-D: function "__HAL_USART_GET_FLAG" declared implicitly
+    temp_flag = __HAL_USART_GET_FLAG(&husart1, UART_FLAG_IDLE);
+                ^
+".\..\Src\stm32f4xx_it.c", line 376: Error:  #20: identifier "husart1" is undefined
+    temp_flag = __HAL_USART_GET_FLAG(&husart1, UART_FLAG_IDLE);
+                                      ^
+.\..\Src\stm32f4xx_it.c: 1 warning, 1 error
+
+[2024-02-29 21:55:24]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\Src\stm32f4xx_it.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\Src\stm32f4xx_it.d .\..\Src\stm32f4xx_it.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\Src\stm32f4xx_it.c", line 379: Error:  #20: identifier "husart1" is undefined
+      
+_HAL_UART_CLEAR_IDLEFLAG(&husart1);
+      ^
+".\..\Src\stm32f4xx_it.c", line 380: Error:  #20: identifier "husart1" is undefined
+      temp = husart1.Instance->SR;
+             ^
+".\..\Src\stm32f4xx_it.c", line 390: Error:  #20: identifier "husart1" is undefined
+    HAL_UART_Receive_DMA(&husart1, JY901_data.RxBuffer, RXBUFFER_LEN);
+                          ^
+.\..\Src\stm32f4xx_it.c: 0 warnings, 3 errors
+
+[2024-02-29 21:56:24]	[done]
+	build successfully !
+
+[2024-02-29 22:00:32]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 238: Error:  #20: identifier "yaw" is undefined
+     relative_yaw = yaw-INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "relative_yaw" is undefined
+    relative_yaw = yaw -INS.Yaw_update ; //ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+    ^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "yaw" is undefined
+    relative_yaw = yaw -INS.Yaw_update ; //ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                   ^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 3 errors
+
+[2024-02-29 22:01:16]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 238: Error:  #20: identifier "yaw" is undefined
+     relative_yaw = yaw-INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "relative_yaw" is undefined
+    relative_yaw = yaw -INS.Yaw_update ; //ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+    ^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "yaw" is undefined
+    relative_yaw = yaw -INS.Yaw_update ; //ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                   ^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 3 errors
+
+[2024-02-29 22:01:46]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+"../User/imu_task.h", line 6: Error:  #65: expected a ";"
+  float yaw Ôº?
+            ^
+"../User/imu_task.h", line 6: Error:  #7: unrecognized token
+  float yaw Ôº?
+             ^
+"../User/JY901.h", line 14: Warning:  #12-D: parsing restarts here after previous syntax error
+  }Angle;
+        ^
+"../User/JY901.h", line 112: Error:  #20: identifier "Angle" is undefined
+  		Angle angle;						//Ëß?Â∫?
+  		^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "relative_yaw" is undefined
+    relative_yaw = yaw -INS.Yaw_update ; //ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+    ^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 4 errors
+
+[2024-02-29 22:02:04]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+"../User/imu_task.h", line 6: Error:  #65: expected a ";"
+  float yaw Ôº?
+            ^
+"../User/imu_task.h", line 6: Error:  #7: unrecognized token
+  float yaw Ôº?
+             ^
+"../User/JY901.h", line 14: Warning:  #12-D: parsing restarts here after previous syntax error
+  }Angle;
+        ^
+"../User/JY901.h", line 112: Error:  #20: identifier "Angle" is undefined
+  		Angle angle;						//Ëß?Â∫?
+  		^
+".\..\User\Task\Chassis_task.c", line 254: Error:  #101: "relative_yaw" has already been declared in the current scope
+    int16_t relative_yaw = INS.Yaw_update;
+            ^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 4 errors
+
+[2024-02-29 22:02:45]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+"../User/imu_task.h", line 6: Error:  #65: expected a ";"
+  float yaw Ôº?
+            ^
+"../User/imu_task.h", line 6: Error:  #7: unrecognized token
+  float yaw Ôº?
+             ^
+"../User/JY901.h", line 14: Warning:  #12-D: parsing restarts here after previous syntax error
+  }Angle;
+        ^
+"../User/JY901.h", line 112: Error:  #20: identifier "Angle" is undefined
+  		Angle angle;						//Ëß?Â∫?
+  		^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 3 errors
+
+[2024-02-29 22:03:15]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol yaw multiply defined (by imu_task.o and Chassis_task.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2024-02-29 22:03:38]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 238: Error:  #20: identifier "yaw" is undefined
+     relative_yaw = yaw-INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 253: Error:  #20: identifier "yaw" is undefined
+    int16_t relative_yaw = yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 159: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 244: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:04:18]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol yaw multiply defined (by imu_task.o and Chassis_task.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2024-02-29 22:04:45]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 239: Error:  #20: identifier "yaw" is undefined
+     relative_yaw = yaw-INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 254: Error:  #20: identifier "yaw" is undefined
+    int16_t relative_yaw = yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 245: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:05:42]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 239: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 254: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 245: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:06:16]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 239: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 254: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 245: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:06:59]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 240: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 256: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 246: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:13:03]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol Yaw multiply defined (by imu_task.o and Chassis_task.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2024-02-29 22:13:53]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 240: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 256: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 246: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:14:06]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 240: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 256: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 160: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 246: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+.\..\User\Task\Chassis_task.c: 2 warnings, 2 errors
+
+[2024-02-29 22:20:08]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 242: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 258: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 292: Error:  #20: identifier "key_y_fast" is undefined
+      key_y_fast += KEY_START_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 294: Error:  #20: identifier "key_y_fast" is undefined
+      key_y_fast -= KEY_STOP_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 296: Error:  #20: identifier "key_y_slow" is undefined
+      key_y_slow += KEY_START_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 298: Error:  #20: identifier "key_y_slow" is undefined
+      key_y_slow -= KEY_STOP_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 300: Error:  #20: identifier "key_x_fast" is undefined
+      key_x_fast += KEY_START_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 302: Error:  #20: identifier "key_x_fast" is undefined
+      key_x_fast -= KEY_STOP_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 304: Error:  #20: identifier "key_x_slow" is undefined
+      key_x_slow += KEY_START_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 306: Error:  #20: identifier "key_x_slow" is undefined
+      key_x_slow -= KEY_STOP_OFFSET;
+      ^
+".\..\User\Task\Chassis_task.c", line 308: Error:  #20: identifier "key_x_fast" is undefined
+    if (key_x_fast > chassis_speed_max)
+        ^
+".\..\User\Task\Chassis_task.c", line 308: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_x_fast > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 310: Error:  #20: identifier "key_x_fast" is undefined
+    if (key_x_fast < 0)
+        ^
+".\..\User\Task\Chassis_task.c", line 312: Error:  #20: identifier "key_x_slow" is undefined
+    if (key_x_slow > chassis_speed_max)
+        ^
+".\..\User\Task\Chassis_task.c", line 312: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_x_slow > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 314: Error:  #20: identifier "key_x_slow" is undefined
+    if (key_x_slow < 0)
+        ^
+".\..\User\Task\Chassis_task.c", line 316: Error:  #20: identifier "key_y_fast" is undefined
+    if (key_y_fast > chassis_speed_max)
+        ^
+".\..\User\Task\Chassis_task.c", line 316: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_y_fast > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 318: Error:  #20: identifier "key_y_fast" is undefined
+    if (key_y_fast < 0)
+        ^
+".\..\User\Task\Chassis_task.c", line 320: Error:  #20: identifier "key_y_slow" is undefined
+    if (key_y_slow > chassis_speed_max)
+        ^
+".\..\User\Task\Chassis_task.c", line 320: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_y_slow > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 322: Error:  #20: identifier "key_y_slow" is undefined
+    if (key_y_slow < 0)
+        ^
+".\..\User\Task\Chassis_task.c", line 162: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 248: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 289: Warning:  #177-D: function "key_control" was declared but never referenced
+  static void key_control(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 22 errors
+
+[2024-02-29 22:20:49]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 243: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 259: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 309: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_x_fast > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 313: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_x_slow > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 317: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_y_fast > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 321: Error:  #20: identifier "chassis_speed_max" is undefined
+    if (key_y_slow > chassis_speed_max)
+                     ^
+".\..\User\Task\Chassis_task.c", line 163: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 249: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 290: Warning:  #177-D: function "key_control" was declared but never referenced
+  static void key_control(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 6 errors
+
+[2024-02-29 22:21:08]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 245: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 261: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 165: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 251: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 292: Warning:  #177-D: function "key_control" was declared but never referenced
+  static void key_control(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 2 errors
+
+[2024-02-29 22:42:16]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 245: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 261: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 165: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 251: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 292: Warning:  #177-D: function "key_control" was declared but never referenced
+  static void key_control(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 2 errors
+
+[2024-02-29 22:42:30]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\Task\Chassis_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Chassis_task.d .\..\User\Task\Chassis_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Chassis_task.c", line 245: Error:  #20: identifier "Yaw" is undefined
+     relative_yaw = Yaw - INS.Yaw; //Êö?Êó?Ê≤?Êú?Âä?ÈôÄËû?‰ª?‰ª?Á†? ÈúÄË¶?Êî?
+                    ^
+".\..\User\Task\Chassis_task.c", line 261: Error:  #20: identifier "Yaw" is undefined
+    int16_t relative_yaw = Yaw - INS.Yaw_update; // ÊúÄÊñ?Áö?Âá?Âé?‰∏?Èù?Áö?
+                           ^
+".\..\User\Task\Chassis_task.c", line 165: Warning:  #177-D: function "Motor_Speed_limiting" was declared but never referenced
+  static void Motor_Speed_limiting(volatile int16_t *motor_speed, int16_t limit_speed)
+              ^
+".\..\User\Task\Chassis_task.c", line 251: Warning:  #177-D: function "chassis_follow" was declared but never referenced
+  static void chassis_follow(void)
+              ^
+".\..\User\Task\Chassis_task.c", line 292: Warning:  #177-D: function "key_control" was declared but never referenced
+  static void key_control(void)
+              ^
+.\..\User\Task\Chassis_task.c: 3 warnings, 2 errors
+
+[2024-02-29 22:42:42]	[done]
+	build successfully !
+
+[2024-02-29 23:18:36]	[done]
+	build successfully !
+
+[2024-03-03 23:49:44]	[done]
+	build successfully !
+
+[2024-03-04 23:39:14]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol Chassis_task (referred from freertos.o).
+Error: L6218E: Undefined symbol chassis (referred from drv_can.o).
+Error: L6218E: Undefined symbol motor_info_chassis (referred from rc_potocal.o).
+Error: L6218E: Undefined symbol chassis_mode (referred from UI_task.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 4 error messages.
+
+
+[2024-03-04 23:39:59]	[done]
+	build successfully !
+
+[2024-03-04 23:43:47]	compilation failed at : "c:\Users\lsk\Desktop\Gyroscope-main\Gyroscope-main\Chassis\User\DriverLayer\drv_can.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.d .\..\User\DriverLayer\drv_can.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\DriverLayer\drv_can.c", line 77: Error:  #20: identifier "RC_CH_VALUE_OFFSET" is undefined
+        rc_ctrl.rc.ch[0] -= RC_CH_VALUE_OFFSET;
+                            ^
+".\..\User\DriverLayer\drv_can.c", line 114: Error:  #20: identifier "RC_CH_VALUE_OFFSET" is undefined
+        rc_ctrl.rc.ch[4] = ((rx_data[0] | (rx_data[1] << 8)) & 0x07ff) - RC_CH_VALUE_OFFSET;
+                                                                         ^
+.\..\User\DriverLayer\drv_can.c: 0 warnings, 2 errors
+
+[2024-03-04 23:44:37]	[done]
+	build successfully !
+
+[2024-03-05 22:24:09]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol ins_yaw_update (referred from rc_potocal.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 1 error messages.
+
+
+[2024-03-05 22:28:11]	[done]
+	build successfully !
+
+[2024-03-06 12:03:26]	[done]
+	build successfully !
+
+[2024-03-06 12:08:32]	[done]
+	build successfully !
+
+[2024-03-06 12:33:28]	[done]
+	build successfully !
+
+[2024-03-06 13:03:24]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol Yaw multiply defined (by imu_task.o and drv_can.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2024-03-06 13:03:59]	[done]
+	build successfully !
+
+[2024-03-06 15:10:20]	[done]
+	build successfully !
+
+[2024-03-06 21:08:50]	[done]
+	build successfully !
+
+[2024-03-06 22:31:44]	[done]
+	build successfully !
+
+[2024-03-07 12:54:16]	[done]
+	build successfully !
+
+[2024-03-07 12:54:24]	[done]
+	build successfully !
+
+[2024-03-07 12:59:07]	[done]
+	build successfully !
+
+[2024-03-07 23:03:21]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6200E: Symbol temp_remote multiply defined (by Chassis_task.o and rc_potocal.o).
+Not enough information to list image symbols.
+Not enough information to list the image map.
+Finished: 2 information, 0 warning and 1 error messages.
+
+
+[2024-03-07 23:03:52]	[done]
+	build successfully !
+
+[2024-03-07 23:06:40]	[done]
+	build successfully !
+
+[2024-03-07 23:07:10]	[done]
+	build successfully !
+
+[2024-03-07 23:13:31]	[done]
+	build successfully !
+
+[2024-03-15 02:09:33]	[done]
+	build successfully !
+
+[2024-03-15 02:10:25]	[done]
+	build successfully !
+
+[2024-03-15 02:13:44]	[done]
+	build successfully !
+
+[2024-03-15 17:06:15]	[done]
+	build successfully !
+
+[2024-04-03 10:53:54]	[done]
+	build successfully !
+
+[2024-04-10 23:09:28]	[done]
+	build successfully !
+
+[2024-04-10 23:18:26]	[done]
+	build successfully !
+
+[2024-04-11 22:59:11]	[done]
+	build successfully !
+
+[2024-04-11 23:22:28]	[done]
+	build successfully !
+
