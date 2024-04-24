@@ -4,6 +4,10 @@ extern CAN_HandleTypeDef hcan2;
 extern RC_ctrl_t rc_ctrl;
 uint16_t can_cnt_1 = 0;
 int16_t yy;
+int16_t Roll0;
+int16_t Pitch0;
+int16_t Yaw0;
+float Yaw1;
 // extern gimbal_t gimbal_Yaw, gimbal_Pitch;
 extern chassis_t chassis;
 #define RC_CH_VALUE_OFFSET ((uint16_t)1024)
@@ -67,9 +71,13 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan) // 接受中断�
   {
     uint8_t rx_data[8];
     HAL_CAN_GetRxMessage(hcan, CAN_RX_FIFO0, &rx_header, rx_data); // receive can1 data
-    // if (rx_header.StdId == 0x55)                                   // 上C向下C传IMU数据
-    // {
-    // }
+    if (rx_header.StdId == 0x388)                                //IMU   // 上C向下C传IMU数据
+    {
+      Roll0= ((rx_data[1] << 8) | rx_data[0]);
+      Pitch0=((rx_data[3] << 8) | rx_data[2]);
+      Yaw0=((rx_data[5] << 8) | rx_data[4]);//下面的
+      Yaw1=Yaw0/100.00;//小数部分
+    }
 
     // 云台电机信息接收
     // if (rx_header.StdId == 0x209) // 判断标识符，标识符为0x204+ID

@@ -42,6 +42,7 @@ int16_t chassis_wz_max = 4000;
 #define CHASSIS_WZ_MAX_2 6000 // 高速，b键触发
 chassis_t chassis;
 extern double yaw12;//下面的yaw
+extern float Yaw1;//新陀螺仪的
 extern float Yaw_top ;//float Yaw_top;上面的 yaw
 //yaw校准参数
 float Yaw;//用来计算
@@ -343,14 +344,14 @@ static void RC_Move(void)
   chassis.Vy = map_range(chassis.Vy, RC_MIN, RC_MAX, motor_min, motor_max)+ key_y_fast - key_y_slow;
   chassis.Wz = map_range(chassis.Wz, RC_MIN, RC_MAX, motor_min, motor_max)+key_Wz_acw + key_Wz_cw;
 
-      relative_yaw = (yaw12 - Yaw_top) / 57.3f; // 此处加负是因为旋转角度后，旋转方向相反
-
+      // relative_yaw = (yaw12 - Yaw_top) / 57.3f; // 此处加负是因为旋转角度后，旋转方向相反
+relative_yaw = (Yaw_update - Yaw_top) / 57.3f;
     int16_t temp_Vx = 0;
   int16_t temp_Vy = 0;
   //  temp_Vx = chassis.Vx * cosf(0) - chassis.Vy * sinf(0);
   // temp_Vy = chassis.Vx * sinf(0) + chassis.Vy * cosf(0);
-  temp_Vx = chassis.Vx * cosf(((yaw12 - Yaw_top))/ 57.3f) - chassis.Vy * sinf(((yaw12 - Yaw_top))/ 57.3f);
-  temp_Vy = chassis.Vx * sinf(((yaw12 - Yaw_top))/ 57.3f) + chassis.Vy * cosf(((yaw12 - Yaw_top))/ 57.3f);
+  temp_Vx = chassis.Vx * cosf(relative_yaw) - chassis.Vy * sinf(relative_yaw);
+  temp_Vy = chassis.Vx * sinf(relative_yaw) + chassis.Vy * cosf(relative_yaw);
   chassis.Vx = temp_Vx;
   chassis.Vy = temp_Vy;
     cycle = 1; // 记录的模式状态的变量，以便切换到 follow 模式的时候，可以知道分辨已经切换模式，计算一次 yaw 的差值
@@ -372,7 +373,8 @@ static void gyroscope(void)
   //  relative_yaw = Yaw - INS_top.Yaw;//改变量 这里是下面的减去上面的 但是按照五号的来 需要下面的陀螺仪减去上面的c板
   //  relative_yaw = yaw12 - Yaw_top; //暂时没有加陀螺仪代码 需要改
   // relative_yaw = -(yaw12 - Yaw_top) ; // 此处加负是因为旋转角度后，旋转方向相反
-    relative_yaw = (yaw12 - Yaw_top) / 57.3f; // 此处加负是因为旋转角度后，旋转方向相反
+    //////////////////////////////////////////////// /*relative_yaw = (yaw12 - Yaw_top) / 57.3f; // 此处加负是因为旋转角度后，旋转方向相反
+    relative_yaw = (Yaw_update - Yaw_top) / 57.3f; // 此处加负是因为旋转角度后，旋转方向相反
 
   // chassis.Vx = cosf(relative_yaw) * Temp_Vx - sinf(relative_yaw) * Temp_Vy;
   // chassis.Vy = sinf(relative_yaw) * Temp_Vx + cosf(relative_yaw) * Temp_Vy;
@@ -382,8 +384,8 @@ static void gyroscope(void)
   int16_t temp_Vy = 0;
   //  temp_Vx = chassis.Vx * cosf(0) - chassis.Vy * sinf(0);
   // temp_Vy = chassis.Vx * sinf(0) + chassis.Vy * cosf(0);
-  temp_Vx = chassis.Vx * cosf(((yaw12 - Yaw_top))/ 57.3f) - chassis.Vy * sinf(((yaw12 - Yaw_top))/ 57.3f);
-  temp_Vy = chassis.Vx * sinf(((yaw12 - Yaw_top))/ 57.3f) + chassis.Vy * cosf(((yaw12 - Yaw_top))/ 57.3f);
+  temp_Vx = chassis.Vx * cosf(relative_yaw) - chassis.Vy * sinf(relative_yaw);
+  temp_Vy = chassis.Vx * sinf(relative_yaw) + chassis.Vy * cosf(relative_yaw);
   chassis.Vx = temp_Vx;
   chassis.Vy = temp_Vy;
 
@@ -446,7 +448,7 @@ static void yaw_correct(void)
   if (yaw_correction_flag)
   {
     yaw_correction_flag = 0;
-    Yaw_init = yaw12;//下面的
+    Yaw_init = Yaw1;//下面的
   }
   // Wz为负，顺时针旋转，陀螺仪飘 60°/min（以3000为例转出的，根据速度不同调整）
   // 解决yaw偏移，完成校正
@@ -459,7 +461,7 @@ static void yaw_correct(void)
       imu_err_yaw += 0.001f;
     // imu_err_yaw += 0.001f * chassis_speed_max / 3000.0f;
   }
-  Yaw_update = yaw12 - Yaw_init + imu_err_yaw;
+  Yaw_update = Yaw1 - Yaw_init + imu_err_yaw;
 }
 /*************************** 键盘控制函数 ************************/
 static void key_control(void)
