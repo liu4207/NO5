@@ -1373,3 +1373,472 @@ Finished: 2 information, 0 warning and 1 error messages.
 [2024-04-11 23:22:28]	[done]
 	build successfully !
 
+[2024-04-25 20:08:14]	[done]
+	build successfully !
+
+[2024-04-25 20:10:16]	[done]
+	build successfully !
+
+[2024-04-25 20:47:35]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\Task\Shoot_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.d .\..\User\Task\Shoot_task.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Shoot_task.c", line 12: Error:  #20: identifier "bool" is undefined
+  bool is_angle_control = false;//鍗?鍙?
+  ^
+".\..\User\Task\Shoot_task.c", line 12: Error:  #20: identifier "false" is undefined
+  bool is_angle_control = false;//鍗?鍙?
+                          ^
+".\..\User\Task\Shoot_task.c", line 100: Error:  #20: identifier "true" is undefined
+              is_angle_control = true;
+                                 ^
+".\..\User\Task\Shoot_task.c", line 106: Warning:  #223-D: function "shoot_reverse" declared implicitly
+              shoot_reverse();
+              ^
+".\..\User\Task\Shoot_task.c", line 139: Error:  #20: identifier "trigger" is undefined
+          trigger.target_angle = motor_can2[4].total_angle - TRIGGER_SINGLE_ANGLE;
+          ^
+".\..\User\Task\Shoot_task.c", line 139: Error:  #20: identifier "motor_can2" is undefined
+          trigger.target_angle = motor_can2[4].total_angle - TRIGGER_SINGLE_ANGLE;
+                                 ^
+".\..\User\Task\Shoot_task.c", line 143: Error:  #159: declaration is incompatible with previous "shoot_reverse" (declared at line 106)
+  static void shoot_reverse()///nrh鐬?鍐?鐨? 娌?鍟?鐢?
+              ^
+".\..\User\Task\Shoot_task.c", line 143: Warning:  #177-D: function "shoot_reverse" was declared but never referenced
+  static void shoot_reverse()///nrh鐬?鍐?鐨? 娌?鍟?鐢?
+              ^
+.\..\User\Task\Shoot_task.c: 2 warnings, 6 errors
+
+[2024-04-25 20:51:53]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\Task\Shoot_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.d .\..\User\Task\Shoot_task.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Shoot_task.c", line 12: Error:  #20: identifier "bool" is undefined
+  bool is_angle_control = false;//鍗?鍙?
+  ^
+".\..\User\Task\Shoot_task.c", line 12: Error:  #20: identifier "false" is undefined
+  bool is_angle_control = false;//鍗?鍙?
+                          ^
+".\..\User\Task\Shoot_task.c", line 26: Error:  #99: a declaration here must declare a parameter
+  void Shoot_task(void const *pvParameters)
+       ^
+".\..\User\Task\Shoot_task.c", line 27: Error:  #65: expected a ";"
+  {
+  ^
+".\..\User\Task\Shoot_task.c", line 146: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+".\..\User\Task\Shoot_task.c", line 146: Error: At end of source:  #130: expected a "{"
+".\..\User\Task\Shoot_task.c", line 146: Error: At end of source:  #67: expected a "}"
+".\..\User\Task\Shoot_task.c", line 16: Warning:  #177-D: function "Shooter_Inint" was declared but never referenced
+  static void Shooter_Inint();         // 鍙?灏?鏈?鏋?鐨?鍒?濮?鍖?
+              ^
+".\..\User\Task\Shoot_task.c", line 17: Warning:  #177-D: function "model_choice" was declared but never referenced
+  static void model_choice();          // 妯?寮?閫?鎷?
+              ^
+".\..\User\Task\Shoot_task.c", line 18: Warning:  #177-D: function "dial_control" was declared but never referenced
+  static void dial_control();          // 鎷?鐩?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 19: Warning:  #177-D: function "friction_control" was declared but never referenced
+  static void friction_control();      // 鎽?鎿?杞?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 20: Warning:  #177-D: function "bay_control" was declared but never referenced
+  static void bay_control();           // 寮?鑸?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 21: Warning:  #177-D: function "shooter_current_given" was declared but never referenced
+  static void shooter_current_given(); // 缁?鐢?娴?
+              ^
+".\..\User\Task\Shoot_task.c", line 23: Warning:  #177-D: function "trigger_single_angle_move" was declared but never referenced
+  static void trigger_single_angle_move();
+              ^
+".\..\User\Task\Shoot_task.c", line 24: Warning:  #177-D: function "shoot_reverse" was declared but never referenced
+  static void shoot_reverse()
+              ^
+.\..\User\Task\Shoot_task.c: 9 warnings, 6 errors
+
+[2024-04-25 20:52:52]	[done]
+	build successfully !
+
+[2024-04-25 20:59:35]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\Task\Shoot_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.d .\..\User\Task\Shoot_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Shoot_task.c", line 51: Error:  #20: identifier "trigger" is undefined
+      pid_init(&trigger.pid_angle, trigger.pid_angle_value, 20000, 30000); // trigger_angle
+                ^
+".\..\User\Task\Shoot_task.c", line 58: Error:  #20: identifier "motor_can2" is undefined
+      shooter.target_angle = motor_can2[0].total_angle;
+                             ^
+".\..\User\Task\Shoot_task.c", line 87: Warning:  #177-D: function "dial_control" was declared but never referenced
+  static void dial_control(void)
+              ^
+.\..\User\Task\Shoot_task.c: 1 warning, 2 errors
+
+[2024-04-25 20:59:57]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\Task\Shoot_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.d .\..\User\Task\Shoot_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Shoot_task.c", line 51: Error:  #20: identifier "trigger" is undefined
+      pid_init(&trigger.pid_angle, trigger.pid_angle_value, 20000, 30000); // trigger_angle
+                ^
+".\..\User\Task\Shoot_task.c", line 87: Warning:  #177-D: function "dial_control" was declared but never referenced
+  static void dial_control(void)
+              ^
+.\..\User\Task\Shoot_task.c: 1 warning, 1 error
+
+[2024-04-25 21:00:21]	[done]
+	build successfully !
+
+[2024-04-25 21:02:26]	[done]
+	build successfully !
+
+[2024-04-25 21:04:36]	[done]
+	build successfully !
+
+[2024-04-25 21:08:25]	[done]
+	build successfully !
+
+[2024-04-25 21:09:59]	[done]
+	build successfully !
+
+[2024-04-25 21:23:13]	link failed !, exit code: 1
+   at unify_builder.Program.Main(String[] args_)
+---
+Error: L6218E: Undefined symbol shoot_start (referred from Shoot_task.o).
+Error: L6218E: Undefined symbol shoot_stop (referred from Shoot_task.o).
+Not enough information to list image symbols.
+Finished: 1 information, 0 warning and 2 error messages.
+
+
+[2024-04-25 21:23:50]	[done]
+	build successfully !
+
+[2024-04-25 21:27:31]	[done]
+	build successfully !
+
+[2024-04-25 21:30:19]	[done]
+	build successfully !
+
+[2024-04-25 21:32:39]	[done]
+	build successfully !
+
+[2024-04-25 21:37:32]	[done]
+	build successfully !
+
+[2024-04-25 21:42:26]	[done]
+	build successfully !
+
+[2024-04-25 21:47:31]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\AlgorithmLayer\pid.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\AlgorithmLayer\pid.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\AlgorithmLayer\pid.d .\..\User\AlgorithmLayer\pid.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\AlgorithmLayer\pid.c", line 115: Error:  #136: struct "<unnamed>" has no field "ref"
+      pid->ref = ref;
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 117: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[1] = pid->err[0];         // err[1]????一?渭??愠?来?牟?值
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 117: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[1] = pid->err[0];         // err[1]????一?渭??愠?来?牟?值
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 118: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[0] = pid->ref - pid->fdb; // err[0]????一?蔚?预???俣群?实???俣鹊牟?值,??两??值?强????歉???
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 118: Error:  #136: struct "<unnamed>" has no field "ref"
+      pid->err[0] = pid->ref - pid->fdb; // err[0]????一?蔚?预???俣群?实???俣鹊牟?值,??两??值?强????歉???
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 120: Error:  #136: struct "<unnamed>" has no field "err"
+      if (pid->err[0] > 4096)
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 121: Error:  #136: struct "<unnamed>" has no field "err"
+          pid->err[0] -= 8191;
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 122: Error:  #136: struct "<unnamed>" has no field "err"
+      if (pid->err[0] < -4096)
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 123: Error:  #136: struct "<unnamed>" has no field "err"
+          pid->err[0] += 8191;
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "p_out"
+      pid->p_out = pid->kp * pid->err[0];
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "kp"
+      pid->p_out = pid->kp * pid->err[0];
+                        ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->p_out = pid->kp * pid->err[0];
+                                  ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "i_out"
+      pid->i_out += pid->ki * pid->err[0];
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "ki"
+      pid->i_out += pid->ki * pid->err[0];
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->i_out += pid->ki * pid->err[0];
+                                   ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "d_out"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "kd"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                        ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                                   ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                                                 ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "output"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "p_out"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "i_out"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+                                      ^
+.\..\User\AlgorithmLayer\pid.c: 0 warnings, 30 errors
+
+[2024-04-25 21:50:14]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\AlgorithmLayer\pid.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\AlgorithmLayer\pid.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\AlgorithmLayer\pid.d .\..\User\AlgorithmLayer\pid.c
+   at unify_builder.Program.compileByMulThread(Int32 thrNum, CmdInfo[] cmds_, List`1 errLogs)
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\AlgorithmLayer\pid.c", line 117: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[1] = pid->err[0];         // err[1]????一?渭??愠?来?牟?值
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 117: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[1] = pid->err[0];         // err[1]????一?渭??愠?来?牟?值
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 118: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->err[0] = pid->ref - pid->fdb; // err[0]????一?蔚?预???俣群?实???俣鹊牟?值,??两??值?强????歉???
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 120: Error:  #136: struct "<unnamed>" has no field "err"
+      if (pid->err[0] > 4096)
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 121: Error:  #136: struct "<unnamed>" has no field "err"
+          pid->err[0] -= 8191;
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 122: Error:  #136: struct "<unnamed>" has no field "err"
+      if (pid->err[0] < -4096)
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 123: Error:  #136: struct "<unnamed>" has no field "err"
+          pid->err[0] += 8191;
+               ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "p_out"
+      pid->p_out = pid->kp * pid->err[0];
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "kp"
+      pid->p_out = pid->kp * pid->err[0];
+                        ^
+".\..\User\AlgorithmLayer\pid.c", line 125: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->p_out = pid->kp * pid->err[0];
+                                  ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "i_out"
+      pid->i_out += pid->ki * pid->err[0];
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "ki"
+      pid->i_out += pid->ki * pid->err[0];
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 126: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->i_out += pid->ki * pid->err[0];
+                                   ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "d_out"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "kd"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                        ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                                   ^
+".\..\User\AlgorithmLayer\pid.c", line 127: Error:  #136: struct "<unnamed>" has no field "err"
+      pid->d_out = pid->kd * (pid->err[0] - pid->err[1]);
+                                                 ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_out"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 128: Error:  #136: struct "<unnamed>" has no field "i_max"
+      
+imitMax(pid->i_out, pid->i_max); // ??止越??
+      ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "output"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+           ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "p_out"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+                         ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "i_out"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+                                      ^
+".\..\User\AlgorithmLayer\pid.c", line 130: Error:  #136: struct "<unnamed>" has no field "d_out"
+      pid->output = pid->p_out + pid->i_out + pid->d_out;
+                                                   ^
+".\..\User\AlgorithmLayer\pid.c", line 131: Error:  #136: struct "<unnamed>" has no field "output"
+      
+imitMax(pid->output, pid->out_max); // ??止越??
+      ^
+.\..\User\AlgorithmLayer\pid.c: 0 warnings, 30 errors
+
+[2024-04-25 21:56:18]	[done]
+	build successfully !
+
+[2024-04-25 21:56:55]	[done]
+	build successfully !
+
+[2024-04-25 22:01:33]	[done]
+	build successfully !
+
+[2024-04-25 22:07:04]	compilation failed at : "c:\Users\lsk\Desktop\NO5\up\Gyroscope-main\Chassis\User\Task\Shoot_task.c", exit code: 1
+command: 
+  "C:\Keil_v5\ARM\ARMCC\bin\armcc.exe" -c --apcs=interwork -I../Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS -I../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Application -I../Bsp -I../Components -I../Components/Algorithm -I../Components/Controller -I../Components/Devices -I../Components/Algorithm/Include -I.cmsis/include -IRTE/_C_Board_Standard_Robot -I.eide/deps -I../Src -I../User/Task -I../User/DriverLayer -I../User/AlgorithmLayer -I../User/PotocaLayer -I../User -DUSE_HAL_DRIVER -DSTM32F407xx -DARM_MATH_CM4 -D__FPU_USED="1U" -D__FPU_PRESENT="1U" -D__CC_ARM -DARM_MATH_MATRIX_CHECK -DARM_MATH_ROUNDING --cpu Cortex-M4.fp --li --c99 -D__MICROLIB -O3 --split_sections --diag_suppress=1 --diag_suppress=1295 -g -o .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.o --no_depend_system_headers --depend .\build\C_Board_Standard_Robot\.obj\__\User\Task\Shoot_task.d .\..\User\Task\Shoot_task.c
+   at unify_builder.Program.Main(String[] args_)
+---
+".\..\User\Task\Shoot_task.c", line 113: Error:  #169: expected a declaration
+      else
+      ^
+".\..\User\Task\Shoot_task.c", line 199: Warning: At end of source:  #12-D: parsing restarts here after previous syntax error
+".\..\User\Task\Shoot_task.c", line 19: Warning:  #177-D: function "dial_control" was declared but never referenced
+  static void dial_control();          // 鎷?鐩?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 20: Error:  #114: function "friction_control" was referenced but not defined
+  static void friction_control();      // 鎽?鎿?杞?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 21: Error:  #114: function "bay_control" was referenced but not defined
+  static void bay_control();           // 寮?鑸?鐢?鏈?鎺?鍒?
+              ^
+".\..\User\Task\Shoot_task.c", line 22: Error:  #114: function "shooter_current_given" was referenced but not defined
+  static void shooter_current_given(); // 缁?鐢?娴?
+              ^
+".\..\User\Task\Shoot_task.c", line 24: Error:  #114: function "trigger_single_angle_move" was referenced but not defined
+  static void trigger_single_angle_move();
+              ^
+".\..\User\Task\Shoot_task.c", line 25: Warning:  #177-D: function "shoot_reverse" was declared but never referenced
+  static void shoot_reverse();
+              ^
+.\..\User\Task\Shoot_task.c: 3 warnings, 5 errors
+
+[2024-04-25 22:07:23]	[done]
+	build successfully !
+
+[2024-04-25 22:13:06]	[done]
+	build successfully !
+
+[2024-04-25 22:15:28]	[done]
+	build successfully !
+
+[2024-04-25 22:24:09]	[done]
+	build successfully !
+
+[2024-04-25 22:26:26]	[done]
+	build successfully !
+
+[2024-04-25 22:31:06]	[done]
+	build successfully !
+
+[2024-04-25 22:32:18]	[done]
+	build successfully !
+
+[2024-04-25 22:37:40]	[done]
+	build successfully !
+
+[2024-04-25 22:41:42]	[done]
+	build successfully !
+
+[2024-04-25 22:50:10]	[done]
+	build successfully !
+
+[2024-04-25 22:56:10]	[done]
+	build successfully !
+
+[2024-04-25 23:03:21]	[done]
+	build successfully !
+
+[2024-04-25 23:09:42]	[done]
+	build successfully !
+
+[2024-04-25 23:11:44]	[done]
+	build successfully !
+
+[2024-04-25 23:13:15]	[done]
+	build successfully !
+
+[2024-04-25 23:14:30]	[done]
+	build successfully !
+
+[2024-04-25 23:17:26]	[done]
+	build successfully !
+
+[2024-04-25 23:25:20]	[done]
+	build successfully !
+
+[2024-04-25 23:30:45]	[done]
+	build successfully !
+
+[2024-04-25 23:32:27]	[done]
+	build successfully !
+

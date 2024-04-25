@@ -1,5 +1,6 @@
 #include "drv_can.h"
 #define RC_CH_VALUE_OFFSET ((uint16_t)1024)
+#define ECD_ANGLE_COEF 0.043945f // (360/8192),将编码器值转化为角度制
 
 extern CAN_HandleTypeDef hcan1;
 extern CAN_HandleTypeDef hcan2;
@@ -170,10 +171,21 @@ void HAL_CAN_RxFifo0MsgPendingCallback(CAN_HandleTypeDef *hcan) // 接受中断�
         && (rx_header.StdId <= 0x208)) // 判断标识符，标识符为0x200+ID
     {
       uint8_t index = rx_header.StdId - 0x205; // get motor index by can_id
+      shooter.motor_info[index].last_ecd = shooter.motor_info[index].rotor_angle;
+
       shooter.motor_info[index].rotor_angle = ((rx_data[0] << 8) | rx_data[1]);
+      shooter.motor_info[index].angle_single_round = ECD_ANGLE_COEF * (float)shooter.motor_info[index].rotor_angle;
+
       shooter.motor_info[index].rotor_speed = ((rx_data[2] << 8) | rx_data[3]);
       shooter.motor_info[index].torque_current = ((rx_data[4] << 8) | rx_data[5]);
       shooter.motor_info[index].temp = rx_data[6];
+
+      if (shooter.motor_info[index].rotor_angle - shooter.motor_info[index].last_ecd > 4096)
+        shooter.motor_info[index].total_round--;
+      else if (shooter.motor_info[index].rotor_angle - shooter.motor_info[index].last_ecd < -4096)
+        shooter.motor_info[index].total_round++;
+      shooter.motor_info[index].total_angle = shooter.motor_info[index].total_round * 360 + shooter.motor_info[index].angle_single_round;
+
       if (index == 0)
       {
         can_cnt_1++;

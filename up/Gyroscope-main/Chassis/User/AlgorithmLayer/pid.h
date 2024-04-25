@@ -8,5 +8,6 @@ extern void pid_init(pid_struct_t *pid,
 
 extern fp32 pid_calc(pid_struct_t *pid, fp32 ref, fp32 set);
 extern fp32 gimbal_Yaw_PID_calc(pid_struct_t *pid, fp32 fdb, fp32 set);
-extern fp32 gimbal_Pitch_PID_cal(pid_struct_t *pid, fp32 fdb, fp32 set); 
+extern fp32 gimbal_Pitch_PID_cal(pid_struct_t *pid, fp32 fdb, fp32 set);
+extern fp32 pid_calc_trigger(pid_struct_t *pid, fp32 ref, fp32 fdb);
 #endif

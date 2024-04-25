@@ -7,7 +7,7 @@
     "buildMode": "fast|multhread",
     "showRepathOnLog": true,
     "threadNum": 16,
-    "rootDir": "c:\\Users\\lsk\\Desktop\\Robot_Infantry_5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
+    "rootDir": "c:\\Users\\lsk\\Desktop\\NO5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
     "dumpPath": "build\\C_Board_Standard_Robot",
     "outDir": "build\\C_Board_Standard_Robot",
     "ram": 131072,
@@ -152,20 +152,20 @@
             "ro-base": "0x08000000",
             "rw-base": "0x20000000",
             "link-scatter": [
-                "\"c:/Users/lsk/Desktop/Robot_Infantry_5/up/Gyroscope-main/Chassis/MDK-ARM/build/C_Board_Standard_Robot/C_Board_Standard_Robot.sct\""
+                "\"c:/Users/lsk/Desktop/NO5/up/Gyroscope-main/Chassis/MDK-ARM/build/C_Board_Standard_Robot/C_Board_Standard_Robot.sct\""
             ]
         }
     },
     "env": {
-        "workspaceFolder": "c:\\Users\\lsk\\Desktop\\Robot_Infantry_5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
+        "workspaceFolder": "c:\\Users\\lsk\\Desktop\\NO5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
         "workspaceFolderBasename": "MDK-ARM",
-        "OutDir": "c:\\Users\\lsk\\Desktop\\Robot_Infantry_5\\up\\Gyroscope-main\\Chassis\\MDK-ARM\\build\\C_Board_Standard_Robot",
+        "OutDir": "c:\\Users\\lsk\\Desktop\\NO5\\up\\Gyroscope-main\\Chassis\\MDK-ARM\\build\\C_Board_Standard_Robot",
         "OutDirRoot": "build",
         "OutDirBase": "build\\C_Board_Standard_Robot",
         "ProjectName": "C_Board_Standard_Robot",
         "ConfigName": "C_Board_Standard_Robot",
-        "ProjectRoot": "c:\\Users\\lsk\\Desktop\\Robot_Infantry_5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
-        "ExecutableName": "c:\\Users\\lsk\\Desktop\\Robot_Infantry_5\\up\\Gyroscope-main\\Chassis\\MDK-ARM\\build\\C_Board_Standard_Robot\\C_Board_Standard_Robot",
+        "ProjectRoot": "c:\\Users\\lsk\\Desktop\\NO5\\up\\Gyroscope-main\\Chassis\\MDK-ARM",
+        "ExecutableName": "c:\\Users\\lsk\\Desktop\\NO5\\up\\Gyroscope-main\\Chassis\\MDK-ARM\\build\\C_Board_Standard_Robot\\C_Board_Standard_Robot",
         "SYS_Platform": "win32",
         "SYS_DirSep": "\\",
         "SYS_DirSeparator": "\\",
@@ -181,6 +181,6 @@
         "global": "3ae75cac734e7a166338bea4b35ae2e0",
         "c/cpp-compiler": "3d14884587f8567240206b91bbb91847",
         "asm-compiler": "99914b932bd37a50b983c5e7c90ae93b",
-        "linker": "237f9dfd3092b19ee36c07c15d9db651"
+        "linker": "4b447c20a7ada10baac0d9de6a326b96"
     }
 }

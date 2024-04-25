@@ -23,6 +23,12 @@ typedef struct
     int16_t rotor_speed;    // 现在的转速
     int16_t torque_current; // 实际转矩电流
     uint8_t temp;           // 电机温度
+
+    float total_angle;   // 总角度,注意方向
+    int32_t total_round; // 总圈数,注意方向
+    uint16_t last_ecd;   // 上一次读取的编码器值
+    uint16_t ecd;        // 0-8191,刻度总共有8192格
+    float angle_single_round; // 单圈角度
 } motor_info_t;
 
 typedef struct
@@ -37,7 +43,7 @@ typedef struct
 
     fp32 set;
     fp32 fdb;
-
+    fp32 ref;
     fp32 out;
     fp32 Pout;
     fp32 Iout;
@@ -74,17 +80,29 @@ typedef struct
     motor_info_t motor_info[4]; // 电机信息结构体
 
     fp32 pid_dial_para[3];     // 拨盘电机的pid参数
+    fp32 pid_angle_value[3];  // 拨盘angle的pid参数
+
     fp32 pid_friction_para[3]; // 摩擦轮电机的pid参数
     fp32 pid_bay_para[3];      // 弹舱电机的pid参数
+
+    pid_struct_t pid_angle;    // 拨盘angle的pid结构体
 
     pid_struct_t pid_dial;     // 拨盘电机的pid结构体
     pid_struct_t pid_friction; // 摩擦轮电机的pid结构体
     pid_struct_t pid_bay;      // 弹舱电机的pid结构体
 
     int16_t dial_speed_target;     // 拨盘电机的目标速度
+
     int16_t friction_speed_target[2]; // 摩擦轮电机的目标速度
     int16_t bay_speed_target;      // 弹舱电机的目标速度
+    float target_angle;            // 拨盘的目标角度
 
+    // uint16_t last_ecd;             // 上一次读取的编码器值
+    // uint16_t ecd;                  // 0-8191,刻度总共有8192格
+    // float angle_single_round;      // 单圈角度
+
+    // float total_angle;   // 总角度,注意方向
+    // int32_t total_round; // 总圈数,注意方向
 } shooter_t;
 
 #endif
