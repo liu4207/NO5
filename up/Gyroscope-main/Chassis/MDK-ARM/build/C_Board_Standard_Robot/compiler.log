@@ -1,10 +1,7 @@
 >>> cc
 
-".\..\User\Task\Shoot_task.c", line 203: Warning:  #177-D: function "shoot_reverse" was declared but never referenced
-  static void shoot_reverse()///nrhçž?å†?çš? æ²?å•?ç”?
-              ^
-.\..\User\Task\Shoot_task.c: 1 warning, 0 errors
+
 
 >>> ld
 
-Program Size: Code=49744 RO-data=3744 RW-data=792 ZI-data=48216  
+Program Size: Code=59956 RO-data=3784 RW-data=1020 ZI-data=55404  

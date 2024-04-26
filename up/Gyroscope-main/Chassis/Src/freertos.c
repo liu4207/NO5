@@ -65,21 +65,24 @@ osThreadId INSTaskHandle;
 osThreadId exchangeTaskHandle;
 osThreadId defaultTaskHandle;
 /* USER CODE END Variables */
+// osThreadId StartDefaultTask;
+osThreadId INSTaskHandle;
 
 /* Private function prototypes -----------------------------------------------*/
 /* USER CODE BEGIN FunctionPrototypes */
 
 /* USER CODE END FunctionPrototypes */
 
-void StartINSTask(void const *argument);
-void StartDefaultTask(void const *argument);
+void StartINSTask(void const * argument);
+void StartDefaultTask(void const *argument); 
+extern void MX_USB_DEVICE_Init(void);
 void MX_FREERTOS_Init(void); /* (MISRA C 2004 rule 8.1) */
 
 /* GetIdleTaskMemory prototype (linked to static allocation support) */
-void vApplicationGetIdleTaskMemory(StaticTask_t **ppxIdleTaskTCBBuffer, StackType_t **ppxIdleTaskStackBuffer, uint32_t *pulIdleTaskStackSize);
+void vApplicationGetIdleTaskMemory( StaticTask_t **ppxIdleTaskTCBBuffer, StackType_t **ppxIdleTaskStackBuffer, uint32_t *pulIdleTaskStackSize );
 
 /* GetTimerTaskMemory prototype (linked to static allocation support) */
-void vApplicationGetTimerTaskMemory(StaticTask_t **ppxTimerTaskTCBBuffer, StackType_t **ppxTimerTaskStackBuffer, uint32_t *pulTimerTaskStackSize);
+void vApplicationGetTimerTaskMemory( StaticTask_t **ppxTimerTaskTCBBuffer, StackType_t **ppxTimerTaskStackBuffer, uint32_t *pulTimerTaskStackSize );
 
 /* USER CODE BEGIN GET_IDLE_TASK_MEMORY */
 static StaticTask_t xIdleTaskTCBBuffer;
@@ -108,12 +111,11 @@ void vApplicationGetTimerTaskMemory(StaticTask_t **ppxTimerTaskTCBBuffer, StackT
 /* USER CODE END GET_TIMER_TASK_MEMORY */
 
 /**
- * @brief  FreeRTOS initialization
- * @param  None
- * @retval None
- */
-void MX_FREERTOS_Init(void)
-{
+  * @brief  FreeRTOS initialization
+  * @param  None
+  * @retval None
+  */
+void MX_FREERTOS_Init(void) {
   /* USER CODE BEGIN Init */
 
   /* USER CODE END Init */
@@ -136,7 +138,8 @@ void MX_FREERTOS_Init(void)
 
   /* Create the thread(s) */
   /* definition and creation of INSTask */
-
+  // osThreadDef(INSTask, StartINSTask, osPriorityNormal, 0, 1024);
+  // INSTaskHandle = osThreadCreate(osThread(INSTask), NULL);
 
   /* USER CODE BEGIN RTOS_THREADS */
   /* add threads, ... */
@@ -161,6 +164,7 @@ void MX_FREERTOS_Init(void)
   osThreadDef(shootTask, Shoot_task, osPriorityNormal, 0, 256);
   shoot_taskHandle = osThreadCreate(osThread(shootTask), NULL);
   /* USER CODE END RTOS_THREADS */
+
 }
 
 /* USER CODE BEGIN Header_StartINSTask */
@@ -170,8 +174,10 @@ void MX_FREERTOS_Init(void)
  * @retval None
  */
 /* USER CODE END Header_StartINSTask */
-void StartINSTask(void const *argument)
+void StartINSTask(void const * argument)
 {
+  /* init code for USB_DEVICE */
+  MX_USB_DEVICE_Init();
   /* USER CODE BEGIN StartINSTask */
   INS_Init();
   /* Infinite loop */
@@ -190,7 +196,7 @@ void StartDefaultTask(void const *argument)
   /* USER CODE BEGIN StartDefaultTask */
   HAL_GPIO_WritePin(GPIOH, GPIO_PIN_11, GPIO_PIN_SET);
   HAL_GPIO_WritePin(GPIOH, GPIO_PIN_10, GPIO_PIN_SET);
-  // uint8_t TIM1_flag = 1; // ��֪��bug // 这东西有什么用啊？
+  // uint8_t TIM1_flag = 1; // ��֪��bug // 这东西有�?么用啊？
   /* Infinite loop */
   for (;;)
   {

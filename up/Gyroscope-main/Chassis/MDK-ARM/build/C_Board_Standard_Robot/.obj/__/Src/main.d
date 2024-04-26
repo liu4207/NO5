@@ -33,6 +33,9 @@
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/FreeRTOSConfig.h
@@ -53,6 +56,9 @@
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/spi.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/tim.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/usart.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/usb_device.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_def.h
+.\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/usbd_conf.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Inc/gpio.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Application/INS_task.h
 .\build\C_Board_Standard_Robot\.obj\__\Src\main.o: ../Components/Devices/BMI088driver.h

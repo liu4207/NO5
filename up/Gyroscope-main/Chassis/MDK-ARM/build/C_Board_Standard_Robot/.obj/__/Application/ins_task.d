@@ -35,6 +35,9 @@
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+.\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
+.\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
+.\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Components/Algorithm/QuaternionEKF.h
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Components/kalman_filter.h
 .\build\C_Board_Standard_Robot\.obj\__\Application\ins_task.o: ../Drivers/CMSIS/Include/arm_math.h

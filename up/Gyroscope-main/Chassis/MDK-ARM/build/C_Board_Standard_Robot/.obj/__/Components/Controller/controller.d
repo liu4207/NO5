@@ -34,6 +34,9 @@
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+.\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
+.\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
+.\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Bsp/bsp_dwt.h
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Components/user_lib.h
 .\build\C_Board_Standard_Robot\.obj\__\Components\Controller\controller.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h

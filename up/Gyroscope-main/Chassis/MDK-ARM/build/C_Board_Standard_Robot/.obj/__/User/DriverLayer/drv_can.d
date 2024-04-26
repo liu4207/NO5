@@ -39,6 +39,9 @@
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h
+.\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd.h
+.\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h
+.\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pcd_ex.h
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../Inc/gpio.h
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../User/Task/Gimbal_task.h
 .\build\C_Board_Standard_Robot\.obj\__\User\DriverLayer\drv_can.o: ../User/Task/Shoot_task.h

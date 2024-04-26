@@ -35,6 +35,24 @@
               },
               {
                 "path": "../Bsp/bsp_PWM.c"
+              },
+              {
+                "path": "../Bsp/bsp_usart.c"
+              },
+              {
+                "path": "../Bsp/bsp_usb.c"
+              },
+              {
+                "path": "../Bsp/daemon.c"
+              },
+              {
+                "path": "../Bsp/miniPC_process.c"
+              },
+              {
+                "path": "../Bsp/robot_def.c"
+              },
+              {
+                "path": "../Bsp/VideoTransmitter.c"
               }
             ],
             "folders": []
@@ -113,6 +131,18 @@
               },
               {
                 "path": "../Src/usart.c"
+              },
+              {
+                "path": "../Src/usb_device.c"
+              },
+              {
+                "path": "../Src/usbd_cdc_if.c"
+              },
+              {
+                "path": "../Src/usbd_conf.c"
+              },
+              {
+                "path": "../Src/usbd_desc.c"
               }
             ],
             "folders": []
@@ -169,6 +199,12 @@
                 "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c.c"
               },
               {
+                "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c"
+              },
+              {
+                "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c"
+              },
+              {
                 "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c"
               },
               {
@@ -194,6 +230,9 @@
               },
               {
                 "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c"
+              },
+              {
+                "path": "../Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c"
               }
             ],
             "folders": []
@@ -236,6 +275,33 @@
               },
               {
                 "path": "../Middlewares/Third_Party/FreeRTOS/Source/timers.c"
+              }
+            ],
+            "folders": []
+          },
+          {
+            "name": "USB",
+            "files": [
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc_if_template.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src/usbd_cdc.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_conf_template.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_desc_template.c"
+              },
+              {
+                "path": "../Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c"
               }
             ],
             "folders": []
@@ -303,7 +369,15 @@
   },
   "targets": {
     "C_Board_Standard_Robot": {
-      "excludeList": [],
+      "excludeList": [
+        "<virtual_root>/USER/JY901.c",
+        "<virtual_root>/Middlewares/USB/usbd_cdc_if_template.c",
+        "<virtual_root>/Middlewares/USB/usbd_conf_template.c",
+        "<virtual_root>/Middlewares/USB/usbd_desc_template.c",
+        "<virtual_root>/USER/imu_task.c",
+        "<virtual_root>/Application/Bsp/robot_def.c",
+        "<virtual_root>/Application/Bsp/VideoTransmitter.c"
+      ],
       "toolchain": "AC5",
       "compileConfig": {
         "cpuType": "Cortex-M4",
@@ -464,7 +538,12 @@
           "../User/DriverLayer",
           "../User/AlgorithmLayer",
           "../User/PotocaLayer",
-          "../User"
+          "../User",
+          "../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc",
+          "../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Src",
+          "../Middlewares/ST/STM32_USB_Device_Library/Core/Inc",
+          "../Middlewares/ST/STM32_USB_Device_Library/Core/Src",
+          "."
         ],
         "libList": [],
         "sourceDirList": [],
